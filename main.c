@@ -1,6 +1,6 @@
-#include <studio.h>
+#include <stdio.h>
 
 main(){
-	printf("Funcionamiento correcto");
+	printf("Funcionamiento correcto del main");
 	return 0;
 }
